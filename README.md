@@ -1,2 +1,2 @@
 # Weather-App
-https://immortal-alloy.github.io/Weather-App/
+https://jyotiprakash-nath.github.io/Weather-App/
